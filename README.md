@@ -1,2 +1,4 @@
-elibrary
-========
+# Android Sample
+## Kolin, Instance App
+
+
